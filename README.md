@@ -7,6 +7,6 @@ Padrão definido pela RFC 7519 que diz como transmitir e armazenar de forma comp
 
 ## Explicação da Aplicação
 ### Aplicação com 3 rotas: 
-<br>1 -> Criação de usuário encriptação da senha digitada e registro no banco de dados (banco utilizado no projeto MongoDB)
-<br>2 -> Login e atribuição do JWT
-<br>3 -> Rota de identificação para o usuario logado e aprovado, só permitida com JWT correto
+<br>* 1 > Criação de usuário encriptação da senha digitada e registro no banco de dados (banco utilizado no projeto MongoDB)
+<br>* 2 > Login e atribuição do JWT
+<br>* 3 > Rota de identificação para o usuario logado e aprovado, só permitida com JWT correto
